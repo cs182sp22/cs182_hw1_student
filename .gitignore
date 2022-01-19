@@ -1,0 +1,8 @@
+*.DS_Store
+*~
+build/
+__pycache__/
+.idea/
+.ipynb_checkpoints/
+datasets/cifar-10-batches-py
+submission_logs/
