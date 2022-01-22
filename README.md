@@ -90,6 +90,8 @@ read our [IPython tutorial](http://cs231n.github.io/ipython-tutorial/).
 Once you are done working run the `collect_submission.sh` script;
 this will produce a file called `assignment1.zip`.
 Upload this file to Gradescope.
+The Gradescope will run an autograder on the files you submit. It is very unlikely but still possible that your implementation might fail to pass some test cases due to randomness.
+If you think your code is correct, you can simply rerun the autograder to check check whether it is really due to randomness.
 
 ### Q1: Fully-connected Neural Network (35 points)
 The IPython notebook `FullyConnectedNets.ipynb` will introduce you to our
