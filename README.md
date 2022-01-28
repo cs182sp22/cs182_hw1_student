@@ -84,7 +84,7 @@ jupyter notebook
 This opens a brower tab for you to work.
 
 If you are unfamiliar with IPython, you should
-read our [IPython tutorial](http://cs231n.github.io/ipython-tutorial/).
+read our [IPython tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/).
 
 ## Submitting your work:
 Once you are done working run the `collect_submission.sh` script;
