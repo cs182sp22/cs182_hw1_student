@@ -81,7 +81,7 @@ from the homework 1 directory with the following command:
 ```bash
 jupyter notebook
 ```
-This opens a brower tab for you to work in VM.
+This opens a brower tab for you to work.
 
 If you are unfamiliar with IPython, you should
 read our [IPython tutorial](http://cs231n.github.io/ipython-tutorial/).
